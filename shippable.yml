@@ -6,3 +6,5 @@ jdk:
 script:
    - mvn clean cobertura:cobertura
    - mvn test
+
+archive: true
